@@ -1,0 +1,20 @@
+{
+    "name": "alhasan/firehas",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Alhasan\\Firehas\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "harrykevin",
+            "email": "muhammad.hassan@jumppace.com"
+        }
+    ],
+    "require": {
+        "php": "*",
+        "illuminate/support": "^10.48",
+        "illuminate/database": "^10.38"
+    }
+}
